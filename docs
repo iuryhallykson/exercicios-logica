@@ -1,1 +1,29 @@
+aula2-variaveis-tipos-dados.md
+
+#Variáveis e tipos de Dados
+- As variáveis são para armazenar informações que pode usar e modificar durante a execução de um programa. a variável, ela possui nome e um determinado valor;
+- Existem tipos de dados que definem as informaçoes que a variável pode armazenar;
+
+- int
+- float
+- texto
+- boolean
+
+fazer o uso delas corretamente desenvolve algoritmo mais organizado e eficiente.
+
+
+aula2-repositorios-remotos.md
+
+#Repositório Remoto
+- é onde os arquivos do projeto são armazenados;
+- permite o código de ser salvo, compartilhando o projeto com outras pessoas e mantendo histórico de alteração;
+- o github é um exemplo disso.
+
+conceitos-frontend.md
+
+#Front-end
+-front = frente, basicamente é onde conseguimos ver a aparência,interação do usuário pela aparência
+- geralmente construído por HTML, CSS e JS
+
+
 
